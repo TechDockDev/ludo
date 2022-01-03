@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495277044325",
+    "project_id": "ludo-dfc32",
+    "storage_bucket": "ludo-dfc32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495277044325:android:f3b17fb48480452c7dcc8c",
+        "android_client_info": {
+          "package_name": "com.lovkush.snakes_ladders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495277044325-u9c6r5lh3pedr2jvh3edaagglo2stg03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2LYaHyUZrarbcIq7HzJI9b-UsJqja_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495277044325-u9c6r5lh3pedr2jvh3edaagglo2stg03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
